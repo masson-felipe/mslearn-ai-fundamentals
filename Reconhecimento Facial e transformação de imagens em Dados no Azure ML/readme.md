@@ -1,4 +1,4 @@
-# LAB 02: Trabalhando com Machine Learning na Prática no Azure ML
+# LAB 02: Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
 Neste laboratório, foram utilizados diversos recursos do **Azure AI Services**, explorando suas funcionalidades práticas para **visão computacional** e **análise de imagens**.
 
