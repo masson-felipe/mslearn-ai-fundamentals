@@ -1,0 +1,232 @@
+[
+  {
+    "documento": "positive",
+    "pontuacao": {
+      "positivo": 0.64,
+      "neutro": 0.07,
+      "negativo": 0.28
+    },
+    "frases": [
+      {
+        "texto": "O atendimento foi excelente, mas a comida demorou muito para chegar.",
+        "sentimento": "positive",
+        "pontuacao": {
+          "positivo": 0.64,
+          "neutro": 0.07,
+          "negativo": 0.28
+        },
+        "opinioes": [
+          {
+            "alvo": "atendimento",
+            "sentimento": "positive",
+            "positivo": 1.0,
+            "negativo": 0.0,
+            "avaliacoes": [
+              {
+                "texto": "excelente",
+                "sentimento": "positive",
+                "positivo": 1.0,
+                "negativo": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "documento": "negative",
+    "pontuacao": {
+      "positivo": 0.11,
+      "neutro": 0.05,
+      "negativo": 0.84
+    },
+    "frases": [
+      {
+        "texto": "A limpeza do quarto estava horrível, mas a vista era linda.",
+        "sentimento": "negative",
+        "pontuacao": {
+          "positivo": 0.11,
+          "neutro": 0.05,
+          "negativo": 0.84
+        },
+        "opinioes": [
+          {
+            "alvo": "limpeza",
+            "sentimento": "negative",
+            "positivo": 0.0,
+            "negativo": 1.0,
+            "avaliacoes": [
+              {
+                "texto": "horrível",
+                "sentimento": "negative",
+                "positivo": 0.0,
+                "negativo": 1.0
+              }
+            ]
+          },
+          {
+            "alvo": "quarto",
+            "sentimento": "negative",
+            "positivo": 0.0,
+            "negativo": 1.0,
+            "avaliacoes": [
+              {
+                "texto": "horrível",
+                "sentimento": "negative",
+                "positivo": 0.0,
+                "negativo": 1.0
+              }
+            ]
+          },
+          {
+            "alvo": "vista",
+            "sentimento": "positive",
+            "positivo": 1.0,
+            "negativo": 0.0,
+            "avaliacoes": [
+              {
+                "texto": "linda",
+                "sentimento": "positive",
+                "positivo": 1.0,
+                "negativo": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "documento": "negative",
+    "pontuacao": {
+      "positivo": 0.0,
+      "neutro": 0.0,
+      "negativo": 1.0
+    },
+    "frases": [
+      {
+        "texto": "Tired hotel with poor service The Royal Hotel, London, United Kingdom 5/6/2018 This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing. ",
+        "sentimento": "negative",
+        "pontuacao": {
+          "positivo": 0.0,
+          "neutro": 0.0,
+          "negativo": 1.0
+        },
+        "opinioes": [
+          {
+            "alvo": "hotel",
+            "sentimento": "negative",
+            "positivo": 0.0,
+            "negativo": 1.0,
+            "avaliacoes": [
+              {
+                "texto": "Tired",
+                "sentimento": "negative",
+                "positivo": 0.0,
+                "negativo": 1.0
+              }
+            ]
+          },
+          {
+            "alvo": "service",
+            "sentimento": "negative",
+            "positivo": 0.01,
+            "negativo": 0.99,
+            "avaliacoes": [
+              {
+                "texto": "poor",
+                "sentimento": "negative",
+                "positivo": 0.01,
+                "negativo": 0.99
+              }
+            ]
+          },
+          {
+            "alvo": "hotel",
+            "sentimento": "negative",
+            "positivo": 0.03,
+            "negativo": 0.97,
+            "avaliacoes": [
+              {
+                "texto": "old",
+                "sentimento": "negative",
+                "positivo": 0.03,
+                "negativo": 0.97
+              }
+            ]
+          },
+          {
+            "alvo": "room furnishings",
+            "sentimento": "mixed",
+            "positivo": 0.5,
+            "negativo": 0.5,
+            "avaliacoes": [
+              {
+                "texto": "average",
+                "sentimento": "mixed",
+                "positivo": 0.5,
+                "negativo": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "texto": "The internet didn't work and had to come to one of their office rooms to check in for my flight home. ",
+        "sentimento": "negative",
+        "pontuacao": {
+          "positivo": 0.0,
+          "neutro": 0.0,
+          "negativo": 1.0
+        },
+        "opinioes": [
+          {
+            "alvo": "internet",
+            "sentimento": "negative",
+            "positivo": 0.0,
+            "negativo": 1.0,
+            "avaliacoes": [
+              {
+                "texto": "work",
+                "sentimento": "negative",
+                "positivo": 0.0,
+                "negativo": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "texto": "The website says it's close to the British Museum, but it's too far to walk.",
+        "sentimento": "neutral",
+        "pontuacao": {
+          "positivo": 0.0,
+          "neutro": 0.7,
+          "negativo": 0.29
+        },
+        "opinioes": []
+      }
+    ]
+  },
+  {
+    "documento": "positive",
+    "pontuacao": {
+      "positivo": 0.99,
+      "neutro": 0.01,
+      "negativo": 0.0
+    },
+    "frases": [
+      {
+        "texto": "I can describe my experience of this game in two words: 'TECHNOLOGY RECHARGED!' #bestdayever",
+        "sentimento": "positive",
+        "pontuacao": {
+          "positivo": 0.99,
+          "neutro": 0.01,
+          "negativo": 0.0
+        },
+        "opinioes": []
+      }
+    ]
+  }
+]
