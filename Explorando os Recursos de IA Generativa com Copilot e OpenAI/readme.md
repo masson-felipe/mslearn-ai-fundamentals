@@ -1,4 +1,4 @@
-# Explorando os Recursos de IA Generativa com Copilot e OpenAI
+# LAB 05: Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
 O **Azure OpenAI Service** traz os modelos de IA generativa desenvolvidos pela OpenAI para a plataforma Azure, permitindo desenvolver soluções de IA poderosas que se beneficiam da segurança, escalabilidade e integração dos serviços do Azure. Neste exercício vamos explorar o Azure OpenAI Service e usá-lo para implantar e experimentar modelos de IA generativa.
 
