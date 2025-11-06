@@ -1,4 +1,4 @@
-# **LAB 04: Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+# **LAB 04: Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados**
 
 Neste laboratório, é imaginado que você trabalha para a **Fourth Coffee**, uma rede nacional de cafeterias. A sua missão é ajudar a construir uma **solução de mineração de conhecimento** que facilite a **busca por informações e insights sobre as experiências dos clientes**.
 
