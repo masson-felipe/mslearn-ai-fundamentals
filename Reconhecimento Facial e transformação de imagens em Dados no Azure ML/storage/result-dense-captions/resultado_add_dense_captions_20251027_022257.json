@@ -1,0 +1,61 @@
+{
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a train in a subway station",
+        "confidence": 0.6684530973434448,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 600,
+          "h": 462
+        }
+      },
+      {
+        "text": "a train moving in a station",
+        "confidence": 0.6357979774475098,
+        "boundingBox": {
+          "x": 181,
+          "y": 35,
+          "w": 410,
+          "h": 414
+        }
+      },
+      {
+        "text": "a blurry image of a person walking",
+        "confidence": 0.764561116695404,
+        "boundingBox": {
+          "x": 98,
+          "y": 163,
+          "w": 119,
+          "h": 265
+        }
+      },
+      {
+        "text": "a blurry image of a person's leg",
+        "confidence": 0.8516228199005127,
+        "boundingBox": {
+          "x": 0,
+          "y": 219,
+          "w": 85,
+          "h": 214
+        }
+      },
+      {
+        "text": "a blurry image of a person",
+        "confidence": 0.8997332453727722,
+        "boundingBox": {
+          "x": 64,
+          "y": 187,
+          "w": 52,
+          "h": 149
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 600,
+    "height": 462
+  }
+}

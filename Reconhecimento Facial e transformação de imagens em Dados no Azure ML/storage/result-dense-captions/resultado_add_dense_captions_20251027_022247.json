@@ -1,0 +1,111 @@
+{
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a woman sitting on a couch with a laptop and a dog",
+        "confidence": 0.8435735106468201,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 986,
+          "h": 740
+        }
+      },
+      {
+        "text": "a dog standing on a rug",
+        "confidence": 0.7489138245582581,
+        "boundingBox": {
+          "x": 656,
+          "y": 420,
+          "w": 300,
+          "h": 313
+        }
+      },
+      {
+        "text": "a person holding a laptop",
+        "confidence": 0.7761778831481934,
+        "boundingBox": {
+          "x": 451,
+          "y": 297,
+          "w": 177,
+          "h": 123
+        }
+      },
+      {
+        "text": "a woman sitting on a couch with a laptop",
+        "confidence": 0.8438215851783752,
+        "boundingBox": {
+          "x": 361,
+          "y": 189,
+          "w": 352,
+          "h": 292
+        }
+      },
+      {
+        "text": "a white cup on a red and white striped surface",
+        "confidence": 0.7308257818222046,
+        "boundingBox": {
+          "x": 568,
+          "y": 537,
+          "w": 57,
+          "h": 56
+        }
+      },
+      {
+        "text": "a woman sitting on a couch with a laptop and a dog looking at it",
+        "confidence": 0.8208153247833252,
+        "boundingBox": {
+          "x": 0,
+          "y": 179,
+          "w": 969,
+          "h": 544
+        }
+      },
+      {
+        "text": "a close up of a wooden surface",
+        "confidence": 0.6763965487480164,
+        "boundingBox": {
+          "x": 353,
+          "y": 0,
+          "w": 278,
+          "h": 105
+        }
+      },
+      {
+        "text": "a wooden object with a red object on top",
+        "confidence": 0.6560362577438354,
+        "boundingBox": {
+          "x": 463,
+          "y": 557,
+          "w": 247,
+          "h": 175
+        }
+      },
+      {
+        "text": "a woman looking at a laptop",
+        "confidence": 0.8031672835350037,
+        "boundingBox": {
+          "x": 545,
+          "y": 192,
+          "w": 171,
+          "h": 178
+        }
+      },
+      {
+        "text": "a blurry image of a window",
+        "confidence": 0.747317910194397,
+        "boundingBox": {
+          "x": 772,
+          "y": 0,
+          "w": 205,
+          "h": 335
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 986,
+    "height": 740
+  }
+}

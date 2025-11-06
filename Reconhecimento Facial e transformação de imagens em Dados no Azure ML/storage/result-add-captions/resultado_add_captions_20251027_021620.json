@@ -1,0 +1,11 @@
+{
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of cows grazing in a field",
+    "confidence": 0.8611457943916321
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}
